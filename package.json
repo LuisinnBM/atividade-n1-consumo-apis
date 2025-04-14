@@ -1,0 +1,12 @@
+{
+  "name": "avaliacao-n1",
+  "version": "1.0.0",
+  "description": "REST Countries e Google Books APIs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
